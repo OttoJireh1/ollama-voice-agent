@@ -1,0 +1,9 @@
+# Ignore __pycache__ folders
+__pycache__/
+
+# Ignore all virtual environments named 'venv'
+venv/
+*.venv/
+
+# Ignore specific file
+base.en.pt
