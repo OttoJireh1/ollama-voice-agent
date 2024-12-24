@@ -100,4 +100,3 @@ This project relied heavily on the following references:
 
 - **[Ollama Voice](https://github.com/maudoin/ollama-voice)** by maudoin for inspiration and implementation details regarding Ollama integration.
 - **[OpenGL Pulse Effect](https://codepen.io/Hyperplexed/full/wvbyoLJ)** by Hyperplexed, which was used for the GLSL shaders.
----
