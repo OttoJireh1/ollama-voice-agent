@@ -1,7 +1,7 @@
 <video src="https://github.com/user-attachments/assets/0c309a5b-139c-4a28-82b8-7cdc1dfd3101" controls></video>
 # Project Overview
 <small>
-This project is a locally hosted AI assistant with a GUI that uses speech-to-text and text-to-speech technologies. It takes advantage of Ollama and LLMs (llama3.2:1b) to run entirely offline. The assistant provides an interactive experience where users communicate through speech, and the system responds using TTS.
+This project is a locally hosted AI agent with a GUI that uses speech-to-text and text-to-speech technologies. It takes advantage of Ollama and LLMs (llama3.2:1b) to run entirely offline. The assistant provides an interactive experience where users communicate through speech, and the system responds using TTS.
 </small>
 
 
