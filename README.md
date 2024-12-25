@@ -38,32 +38,6 @@ This project is a locally hosted AI agent with a GUI that uses speech-to-text an
      python3 main.py
      ```
 ---
-# Folder Structure
-```
-ollama-voice-agent/
-│
-├── agent/
-│   ├── ollama_handler.py
-│   ├── stt.py
-│   ├── stt.py
-│   └── logo.png
-│
-├── config/
-│   ├── config_loader.py
-│   └── config.yaml
-│
-├── shaders/
-│   ├── vertex_shader.glsl
-│   ├── fragment_shader.glsl
-│   └── shaders_handler.py
-│
-├── whisper/
-│   └── base.en.pt
-│
-├── main.py
-└── requirements.py
-```
----
 # Execution Flow
 
 1. `main.py` - The Main Controller
